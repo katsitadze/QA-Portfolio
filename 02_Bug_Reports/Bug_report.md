@@ -170,7 +170,7 @@ User is logged into their account.
 ---
 
 
----# BUG_007: Password Reset Email Not Received
+# BUG_007: Password Reset Email Not Received
 
 **Severity:** High  
 **Priority:** High  
